@@ -168,7 +168,7 @@ $(document).ready(function(){
 				var fifty_remaining_1_date =  jQuery('#fifty_remaining_1_date').val() ;
 				
 				jQuery('#pdf_fifty_remaining_1').text(fifty_remaining_1);
-				jQuery('#pdf_fifty_fifty_remaining_1_date').text(fifty_remaining_1_date);
+				jQuery('#pdf_fifty_remaining_1_date').text(fifty_remaining_1_date);
 				
 				
 
